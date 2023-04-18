@@ -5,6 +5,7 @@ import requests
 #replace the data and url authentication
 #for any help contact amjid@syncbricks.com
 #This will update the specific shift last sync date from now less 7 days
+#This is to ensure that the attendance is marked only after specific date
 
 # Set API key and secret
 api_key = 'asdf'
